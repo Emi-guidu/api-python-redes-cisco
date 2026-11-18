@@ -1,6 +1,6 @@
 # TP N° 4 - Trabajo Práctico Integrador (Redes de Computadoras - 3643)
 
-Repositorio del **Grupo NN** con los scripts en Python para interactuar con la API REST del Network Controller de Cisco Packet Tracer.
+Repositorio del **Grupo 06** con los scripts en Python para interactuar con la API REST del Network Controller de Cisco Packet Tracer.
 
 ## Descripción de los scripts (carpeta `src/`)
 
